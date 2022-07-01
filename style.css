@@ -33,19 +33,19 @@ header .logo h1{
     background-image: url(./img/Argentina.jpg);
 }
 .messi{
-    background-image: url(/img/MESSI.jpg);
+    background-image: url(./img/MESSI.jpg);
 }
 .di{
-    background-image: url(/img/angel-di-maria.jpg);
+    background-image: url(./img/angel-di-maria.jpg);
 }
 .lautaro{
-    background-image: url(/img/Martinez.jpg);
+    background-image: url(./img/Martinez.jpg);
 }
 .paul{
-    background-image: url(/img/DE-Paul.jpeg);
+    background-image: url(./img/DE-Paul.jpeg);
 }
 .dybala{
-    background-image: url(/img/paulo-dybala.jpg);
+    background-image: url(./img/paulo-dybala.jpg);
 }
 .logo-bg-container h1{
     color: whitesmoke;
